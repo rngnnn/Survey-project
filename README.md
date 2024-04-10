@@ -17,18 +17,16 @@ Project aims to create survey form within html and css.
 ```
 001-survey-form (folder)
 |
-|----readme.md           
+|----readme.md          
 |----solution
         |----index.html  
         |----style.css   
         |----result.html 
-        
-        
-        ```
-  ## Expected Outcome
-  ## Expected Outcome
+```
 
-![Project_001_](Project_001_.png)
+## Expected Outcome
+
+![Project Snapshot][def]
 
 ![Project Snapshot](Project_001_.png)
 
@@ -53,3 +51,6 @@ Project aims to create survey form within html and css.
 <p align="center"> &#8987; <strong>Happy Coding</strong>  &#9997; </p>
 
 
+
+
+[def]: Project_001_.png
