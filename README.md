@@ -26,8 +26,11 @@ Project aims to create survey form within html and css.
         
         ```
   ## Expected Outcome
+  ## Expected Outcome
 
-(![Project_001_](https://).png)
+![Project_001_](Project_001_.png)
+
+![Project Snapshot](Project_001_.png)
 
         ### At the end of the project, following topics are to be covered;
 
@@ -48,3 +51,5 @@ Project aims to create survey form within html and css.
 
 
 <p align="center"> &#8987; <strong>Happy Coding</strong>  &#9997; </p>
+
+
