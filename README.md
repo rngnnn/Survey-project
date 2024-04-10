@@ -17,7 +17,7 @@ Project aims to create survey form within html and css.
 ```
 001-survey-form (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
+|----readme.md           
 |----solution
         |----index.html  
         |----style.css   
@@ -25,9 +25,9 @@ Project aims to create survey form within html and css.
         
         
         ```
-   ## Expected Outcome
+  ## Expected Outcome
 
-![Project Snapshot](./Project_001_.png)
+(![Project_001_](https://).png)
 
         ### At the end of the project, following topics are to be covered;
 
