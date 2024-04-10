@@ -25,10 +25,9 @@ Project aims to create survey form within html and css.
 ```
 
 ## Expected Outcome
+![project](image.png)
 
-![Project Snapshot][def]
-
-![Project Snapshot](Project_001_.png)
+![Project](Project_001_.png)
 
         ### At the end of the project, following topics are to be covered;
 
